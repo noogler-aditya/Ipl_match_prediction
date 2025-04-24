@@ -6,7 +6,6 @@ This project uses machine learning to predict IPL match outcomes and provides te
 
 - **Match Prediction**: Predict the outcome of IPL matches based on historical data
 - **Team Analysis**: View detailed performance metrics for each team
-- **Dataset Overview**: Explore the IPL dataset with visualizations
 
 ## Data
 
@@ -50,5 +49,4 @@ The project uses a Random Forest Classifier to predict match outcomes based on f
 
 1. **Match Prediction**: Select teams, venue, and toss information to predict the match outcome
 2. **Team Analysis**: View performance metrics and head-to-head statistics for each team
-3. **Dataset Overview**: Explore the IPL dataset with visualizations
 # Ipl_match_prediction
